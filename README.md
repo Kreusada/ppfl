@@ -1,4 +1,4 @@
-# PPF - Python Package Finder Library
+# PPFL - Python Package Finder Library
 
 This project is home to a command line interface used
 to search PyPi for various projects.
